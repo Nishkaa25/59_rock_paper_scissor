@@ -27,6 +27,9 @@ Wait during shake/result display. Press R on GAME_OVER to start another match.
 
 ## Submission evidence to add yourself
 videos/before.mp4 - 10 seconds of the original code showing the reversed result.
+
 videos/after.mp4 - 10 seconds showing corrected rules and the added features.
+
 chat_history.pdf - full actual user/assistant conversation, exported after finishing.
+
 The source files provided here are not evidence that you ran or recorded the game.
