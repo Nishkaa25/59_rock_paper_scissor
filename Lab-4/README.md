@@ -23,7 +23,10 @@ python main.py
 
 ## Controls
 Left-click ROCK, PAPER, or SCISSORS when asked to make a move.
-Wait during shake/result display. Press R on GAME_OVER to start another match.
+
+Wait during shake/result display.
+
+Press R on GAME_OVER to start another match.
 
 ## Submission evidence 
 videos/before.mp4 - 10 seconds of the original code showing the reversed result.
