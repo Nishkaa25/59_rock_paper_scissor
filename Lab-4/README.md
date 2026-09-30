@@ -4,7 +4,9 @@ Original assignment: https://github.com/SETAPESU26/59_rock_paper_scissor
 
 ## Student Details
 Name: Nishkaa V
+
 SRN: PES2UG24CS907
+
 GitHub: Nishkaa25
 
 ## Run
